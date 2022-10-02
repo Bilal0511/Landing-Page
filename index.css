@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.nav{
+    font-family: 'Dancing Script', cursive;   
+}
+.masthead{
+    position: absolute;
+    z-index: 2;
+    text-align: center;
+}
+.h-50{
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 0;
+}
+img{
+    width: 100%;height: 100%;
+}
+.d-block{
+    background-repeat: no-repeat;
+}
